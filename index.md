@@ -1,9 +1,9 @@
 # Lucas's Github Page
 
 
-(https://github.com/lucaslcode)[User page is here]
+[User page is here](https://github.com/lucaslcode)
 
 
 ## Projects
 
-- (https://github.com/lucaslcode/yjournal)[yJoural], a journal app written in flutter
+- [yJournal](https://github.com/lucaslcode/yjournal), a journal app written in flutter
